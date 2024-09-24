@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parelf
 - 👀 I’m interested in learning new skills to help achieve my creative and professional goals.
-- 🌱 I’m currently learning Java, C++ and Python.
-- 💞️ I’m looking to collaborate on simple projects for now, and eventually challenging projects.
+- 🌱 I’m currently learning to program complex systems and apps.
+- 💞️ I’m looking to collaborate on simple projects for now to ge used to team dynamics, and then transitioning to challenging projects.
 - 📫 How to reach me: Send me a message and I will get back to you as soon as I can.
 
 <!---
